@@ -14,7 +14,7 @@
             "name": "that we are on Willy's website",
             "result": {
               "status": "passed",
-              "duration": 6718376300
+              "duration": 3603913100
             },
             "line": 6,
             "match": {
@@ -27,7 +27,7 @@
             "name": "that we accepted the standard cookie policy",
             "result": {
               "status": "passed",
-              "duration": 2610974000
+              "duration": 2046603499
             },
             "line": 7,
             "match": {
@@ -40,7 +40,7 @@
             "name": "that we have have been through the initial where to deliver popup",
             "result": {
               "status": "passed",
-              "duration": 3863010199
+              "duration": 3238749400
             },
             "line": 8,
             "match": {
@@ -53,7 +53,7 @@
             "name": "that I am on the page - Fruit category",
             "result": {
               "status": "passed",
-              "duration": 3791068501
+              "duration": 2972538600
             },
             "line": 11,
             "match": {
@@ -66,7 +66,7 @@
             "name": "I put a random number of each fruit",
             "result": {
               "status": "passed",
-              "duration": 23787173700
+              "duration": 12004479199
             },
             "line": 12,
             "match": {
@@ -79,7 +79,7 @@
             "name": "the cart should show the correct quantity of items",
             "result": {
               "status": "passed",
-              "duration": 4508403200
+              "duration": 4287442801
             },
             "line": 13,
             "match": {
@@ -91,7 +91,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4697812499
+              "duration": 4225044200
             },
             "hidden": true,
             "match": {
@@ -125,7 +125,7 @@
             "name": "that we are on Willy's website",
             "result": {
               "status": "passed",
-              "duration": 4524653800
+              "duration": 2937283099
             },
             "line": 6,
             "match": {
@@ -138,7 +138,7 @@
             "name": "that we accepted the standard cookie policy",
             "result": {
               "status": "passed",
-              "duration": 3046883799
+              "duration": 1818326200
             },
             "line": 7,
             "match": {
@@ -151,7 +151,7 @@
             "name": "that we have have been through the initial where to deliver popup",
             "result": {
               "status": "passed",
-              "duration": 3865862901
+              "duration": 3612871001
             },
             "line": 8,
             "match": {
@@ -164,7 +164,7 @@
             "name": "that I have an item in the shopping cart",
             "result": {
               "status": "passed",
-              "duration": 230499
+              "duration": 213300
             },
             "line": 11,
             "match": {
@@ -177,7 +177,7 @@
             "name": "that I have opened cart",
             "result": {
               "status": "passed",
-              "duration": 167300
+              "duration": 199900
             },
             "line": 12,
             "match": {
@@ -190,7 +190,7 @@
             "name": "I click on increase quantity button of the item in the cart",
             "result": {
               "status": "passed",
-              "duration": 431101
+              "duration": 211900
             },
             "line": 13,
             "match": {
@@ -203,7 +203,7 @@
             "name": "the cart should show the correct total quantity of products",
             "result": {
               "status": "passed",
-              "duration": 403900
+              "duration": 585900
             },
             "line": 14,
             "match": {
@@ -216,7 +216,7 @@
             "name": "the cart should show correct total price",
             "result": {
               "status": "passed",
-              "duration": 183700
+              "duration": 197400
             },
             "line": 15,
             "match": {
@@ -228,7 +228,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4495241400
+              "duration": 4229610001
             },
             "hidden": true,
             "match": {
@@ -262,7 +262,7 @@
             "name": "that we are on Willy's website",
             "result": {
               "status": "passed",
-              "duration": 4578930801
+              "duration": 4105227799
             },
             "line": 6,
             "match": {
@@ -275,7 +275,7 @@
             "name": "that we accepted the standard cookie policy",
             "result": {
               "status": "passed",
-              "duration": 4084484300
+              "duration": 2606087700
             },
             "line": 7,
             "match": {
@@ -288,7 +288,7 @@
             "name": "that we have have been through the initial where to deliver popup",
             "result": {
               "status": "passed",
-              "duration": 4048597299
+              "duration": 3623097800
             },
             "line": 8,
             "match": {
@@ -301,7 +301,7 @@
             "name": "that I have an any item in the shopping cart",
             "result": {
               "status": "passed",
-              "duration": 239799
+              "duration": 533299
             },
             "line": 11,
             "match": {
@@ -314,7 +314,7 @@
             "name": "I click decrease quantity button in the cart until quantity not 0",
             "result": {
               "status": "passed",
-              "duration": 205400
+              "duration": 176200
             },
             "line": 12,
             "match": {
@@ -327,7 +327,7 @@
             "name": "the cart should not contain item",
             "result": {
               "status": "passed",
-              "duration": 201200
+              "duration": 163401
             },
             "line": 13,
             "match": {
@@ -339,7 +339,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4374761900
+              "duration": 4215685399
             },
             "hidden": true,
             "match": {
@@ -373,7 +373,7 @@
             "name": "that we are on Willy's website",
             "result": {
               "status": "passed",
-              "duration": 4905326601
+              "duration": 4082380500
             },
             "line": 6,
             "match": {
@@ -386,7 +386,7 @@
             "name": "that we accepted the standard cookie policy",
             "result": {
               "status": "passed",
-              "duration": 3169912899
+              "duration": 2496772200
             },
             "line": 7,
             "match": {
@@ -399,7 +399,7 @@
             "name": "that we have have been through the initial where to deliver popup",
             "result": {
               "status": "passed",
-              "duration": 3970838000
+              "duration": 3536338800
             },
             "line": 8,
             "match": {
@@ -412,7 +412,7 @@
             "name": "that I have items in the shopping cart",
             "result": {
               "status": "passed",
-              "duration": 24888483801
+              "duration": 25055652001
             },
             "line": 11,
             "match": {
@@ -425,7 +425,7 @@
             "name": "I click on the shoping cart button",
             "result": {
               "status": "passed",
-              "duration": 314139200
+              "duration": 300961799
             },
             "line": 12,
             "match": {
@@ -438,7 +438,7 @@
             "name": "the cart should appear",
             "result": {
               "status": "passed",
-              "duration": 1105756800
+              "duration": 1175755300
             },
             "line": 13,
             "match": {
@@ -451,7 +451,7 @@
             "name": "the cart shows items with correct quantity",
             "result": {
               "status": "passed",
-              "duration": 1142303300
+              "duration": 641229300
             },
             "line": 14,
             "match": {
@@ -463,7 +463,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4302538501
+              "duration": 4214842900
             },
             "hidden": true,
             "match": {
@@ -497,7 +497,7 @@
             "name": "that we are on Willy's website",
             "result": {
               "status": "passed",
-              "duration": 3818469400
+              "duration": 3194036999
             },
             "line": 6,
             "match": {
@@ -510,7 +510,7 @@
             "name": "that we accepted the standard cookie policy",
             "result": {
               "status": "passed",
-              "duration": 4153961001
+              "duration": 2334321001
             },
             "line": 7,
             "match": {
@@ -523,7 +523,7 @@
             "name": "that we have have been through the initial where to deliver popup",
             "result": {
               "status": "passed",
-              "duration": 3778750600
+              "duration": 3397032700
             },
             "line": 8,
             "match": {
@@ -536,7 +536,7 @@
             "name": "that I am on the Fruit page",
             "result": {
               "status": "passed",
-              "duration": 4758978899
+              "duration": 2940312700
             },
             "line": 11,
             "match": {
@@ -549,7 +549,7 @@
             "name": "I click a random fruit",
             "result": {
               "status": "passed",
-              "duration": 1113401499
+              "duration": 637525401
             },
             "line": 12,
             "match": {
@@ -562,7 +562,7 @@
             "name": "the modal window should appear",
             "result": {
               "status": "passed",
-              "duration": 430739200
+              "duration": 390809200
             },
             "line": 13,
             "match": {
@@ -575,7 +575,7 @@
             "name": "the modal window should show correct information details",
             "result": {
               "status": "passed",
-              "duration": 129579100
+              "duration": 183224101
             },
             "line": 14,
             "match": {
@@ -587,7 +587,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4215539700
+              "duration": 4245128699
             },
             "hidden": true,
             "match": {
@@ -621,7 +621,7 @@
             "name": "that we are on Willy's website",
             "result": {
               "status": "passed",
-              "duration": 4221999100
+              "duration": 2503239201
             },
             "line": 6,
             "match": {
@@ -634,7 +634,7 @@
             "name": "that we accepted the standard cookie policy",
             "result": {
               "status": "passed",
-              "duration": 2846435999
+              "duration": 1995773200
             },
             "line": 7,
             "match": {
@@ -647,7 +647,7 @@
             "name": "that we have have been through the initial where to deliver popup",
             "result": {
               "status": "passed",
-              "duration": 3933501100
+              "duration": 3210211300
             },
             "line": 8,
             "match": {
@@ -660,7 +660,7 @@
             "name": "that I am on the Home page",
             "result": {
               "status": "passed",
-              "duration": 166800
+              "duration": 239100
             },
             "line": 11,
             "match": {
@@ -673,7 +673,7 @@
             "name": "I click on menu button",
             "result": {
               "status": "passed",
-              "duration": 156711200
+              "duration": 34835600
             },
             "line": 12,
             "match": {
@@ -686,7 +686,7 @@
             "name": "I click on Vegetarian category button",
             "result": {
               "status": "passed",
-              "duration": 3594619900
+              "duration": 3042632900
             },
             "line": 13,
             "match": {
@@ -699,7 +699,7 @@
             "name": "I am on the Vegetarian category page",
             "result": {
               "status": "passed",
-              "duration": 487150000
+              "duration": 227650400
             },
             "line": 14,
             "match": {
@@ -711,7 +711,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4236370200
+              "duration": 4207383100
             },
             "hidden": true,
             "match": {
@@ -745,7 +745,7 @@
             "name": "that we are on Willy's website",
             "result": {
               "status": "passed",
-              "duration": 3819193300
+              "duration": 2842206300
             },
             "line": 6,
             "match": {
@@ -758,7 +758,7 @@
             "name": "that we accepted the standard cookie policy",
             "result": {
               "status": "passed",
-              "duration": 1844186200
+              "duration": 1857442100
             },
             "line": 7,
             "match": {
@@ -771,7 +771,7 @@
             "name": "that we have have been through the initial where to deliver popup",
             "result": {
               "status": "passed",
-              "duration": 3831986000
+              "duration": 3344833900
             },
             "line": 8,
             "match": {
@@ -784,7 +784,7 @@
             "name": "that I am on the Fruit category page",
             "result": {
               "status": "passed",
-              "duration": 7228679700
+              "duration": 4716134800
             },
             "line": 11,
             "match": {
@@ -797,7 +797,7 @@
             "name": "I put a random number of each fruit that has price per piece in the cart",
             "result": {
               "status": "passed",
-              "duration": 25061577699
+              "duration": 16009659800
             },
             "line": 12,
             "match": {
@@ -810,7 +810,7 @@
             "name": "the mini-cart should show the correct total quantity of products",
             "result": {
               "status": "passed",
-              "duration": 83336801
+              "duration": 47266899
             },
             "line": 13,
             "match": {
@@ -823,7 +823,7 @@
             "name": "the mini-cart should show correct total price",
             "result": {
               "status": "passed",
-              "duration": 82586201
+              "duration": 35303799
             },
             "line": 14,
             "match": {
@@ -835,7 +835,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 4247365699
+              "duration": 4244152700
             },
             "hidden": true,
             "match": {

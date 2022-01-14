@@ -5,17 +5,17 @@
             <property name="URI" value="C:/Users/nazmu/Desktop/Project-3-main/features/add-items-to-cart.feature">
             </property>
         </properties>
-        <testcase name="Given that we are on Willy&apos;s website" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="6.7183763">
+        <testcase name="Given that we are on Willy&apos;s website" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="3.6039131">
         </testcase>
-        <testcase name="And that we accepted the standard cookie policy" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="2.610974">
+        <testcase name="And that we accepted the standard cookie policy" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="2.046603499">
         </testcase>
-        <testcase name="And that we have have been through the initial where to deliver popup" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="3.863010199">
+        <testcase name="And that we have have been through the initial where to deliver popup" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="3.2387494">
         </testcase>
-        <testcase name="Given that I am on the page - Fruit category" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="3.791068501">
+        <testcase name="Given that I am on the page - Fruit category" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="2.9725386">
         </testcase>
-        <testcase name="When I put a random number of each fruit" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="23.7871737">
+        <testcase name="When I put a random number of each fruit" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="12.004479199">
         </testcase>
-        <testcase name="Then the cart should show the correct quantity of items" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="4.5084032">
+        <testcase name="Then the cart should show the correct quantity of items" classname="correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart" time="4.287442801">
         </testcase>
     </testsuite>
     <testsuite name="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" tests="8" failures="0" skipped="0">
@@ -23,21 +23,21 @@
             <property name="URI" value="C:/Users/nazmu/Desktop/Project-3-main/features/cart-change-quantity.feature">
             </property>
         </properties>
-        <testcase name="Given that we are on Willy&apos;s website" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="4.5246538">
+        <testcase name="Given that we are on Willy&apos;s website" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="2.937283099">
         </testcase>
-        <testcase name="And that we accepted the standard cookie policy" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="3.046883799">
+        <testcase name="And that we accepted the standard cookie policy" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="1.8183262">
         </testcase>
-        <testcase name="And that we have have been through the initial where to deliver popup" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="3.865862901">
+        <testcase name="And that we have have been through the initial where to deliver popup" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="3.612871001">
         </testcase>
-        <testcase name="Given that I have an item in the shopping cart" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.000230499">
+        <testcase name="Given that I have an item in the shopping cart" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0002133">
         </testcase>
-        <testcase name="And that I have opened cart" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0001673">
+        <testcase name="And that I have opened cart" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0001999">
         </testcase>
-        <testcase name="When I click on increase quantity button of the item in the cart" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.000431101">
+        <testcase name="When I click on increase quantity button of the item in the cart" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0002119">
         </testcase>
-        <testcase name="Then the cart should show the correct total quantity of products" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0004039">
+        <testcase name="Then the cart should show the correct total quantity of products" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0005859">
         </testcase>
-        <testcase name="And the cart should show correct total price" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0001837">
+        <testcase name="And the cart should show correct total price" classname="6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum" time="0.0001974">
         </testcase>
     </testsuite>
     <testsuite name="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" tests="6" failures="0" skipped="0">
@@ -45,17 +45,17 @@
             <property name="URI" value="C:/Users/nazmu/Desktop/Project-3-main/features/cart-remove-item.feature">
             </property>
         </properties>
-        <testcase name="Given that we are on Willy&apos;s website" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="4.578930801">
+        <testcase name="Given that we are on Willy&apos;s website" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="4.105227799">
         </testcase>
-        <testcase name="And that we accepted the standard cookie policy" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="4.0844843">
+        <testcase name="And that we accepted the standard cookie policy" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="2.6060877">
         </testcase>
-        <testcase name="And that we have have been through the initial where to deliver popup" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="4.048597299">
+        <testcase name="And that we have have been through the initial where to deliver popup" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="3.6230978">
         </testcase>
-        <testcase name="Given that I have an any item in the shopping cart" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="0.000239799">
+        <testcase name="Given that I have an any item in the shopping cart" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="0.000533299">
         </testcase>
-        <testcase name="When I click decrease quantity button in the cart until quantity not 0" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="0.0002054">
+        <testcase name="When I click decrease quantity button in the cart until quantity not 0" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="0.0001762">
         </testcase>
-        <testcase name="Then the cart should not contain item" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="0.0002012">
+        <testcase name="Then the cart should not contain item" classname="7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart" time="0.000163401">
         </testcase>
     </testsuite>
     <testsuite name="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" tests="7" failures="0" skipped="0">
@@ -63,19 +63,19 @@
             <property name="URI" value="C:/Users/nazmu/Desktop/Project-3-main/features/check-items-in-cart.feature">
             </property>
         </properties>
-        <testcase name="Given that we are on Willy&apos;s website" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="4.905326601">
+        <testcase name="Given that we are on Willy&apos;s website" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="4.0823805">
         </testcase>
-        <testcase name="And that we accepted the standard cookie policy" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="3.169912899">
+        <testcase name="And that we accepted the standard cookie policy" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="2.4967722">
         </testcase>
-        <testcase name="And that we have have been through the initial where to deliver popup" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="3.970838">
+        <testcase name="And that we have have been through the initial where to deliver popup" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="3.5363388">
         </testcase>
-        <testcase name="Given that I have items in the shopping cart" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="24.888483801">
+        <testcase name="Given that I have items in the shopping cart" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="25.055652001">
         </testcase>
-        <testcase name="When I click on the shoping cart button" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="0.3141392">
+        <testcase name="When I click on the shoping cart button" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="0.300961799">
         </testcase>
-        <testcase name="Then the cart should appear" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="1.1057568">
+        <testcase name="Then the cart should appear" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="1.1757553">
         </testcase>
-        <testcase name="And the cart shows items with correct quantity" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="1.1423033">
+        <testcase name="And the cart shows items with correct quantity" classname="4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items" time="0.6412293">
         </testcase>
     </testsuite>
     <testsuite name="2.-open-item-information-details;click-on-item-and-check-information-details" tests="7" failures="0" skipped="0">
@@ -83,19 +83,19 @@
             <property name="URI" value="C:/Users/nazmu/Desktop/Project-3-main/features/get-item-information.feature">
             </property>
         </properties>
-        <testcase name="Given that we are on Willy&apos;s website" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="3.8184694">
+        <testcase name="Given that we are on Willy&apos;s website" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="3.194036999">
         </testcase>
-        <testcase name="And that we accepted the standard cookie policy" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="4.153961001">
+        <testcase name="And that we accepted the standard cookie policy" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="2.334321001">
         </testcase>
-        <testcase name="And that we have have been through the initial where to deliver popup" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="3.7787506">
+        <testcase name="And that we have have been through the initial where to deliver popup" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="3.3970327">
         </testcase>
-        <testcase name="Given that I am on the Fruit page" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="4.758978899">
+        <testcase name="Given that I am on the Fruit page" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="2.9403127">
         </testcase>
-        <testcase name="When I click a random fruit" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="1.113401499">
+        <testcase name="When I click a random fruit" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="0.637525401">
         </testcase>
-        <testcase name="Then the modal window should appear" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="0.4307392">
+        <testcase name="Then the modal window should appear" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="0.3908092">
         </testcase>
-        <testcase name="And the modal window should show correct information details" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="0.1295791">
+        <testcase name="And the modal window should show correct information details" classname="2.-open-item-information-details;click-on-item-and-check-information-details" time="0.183224101">
         </testcase>
     </testsuite>
     <testsuite name="1.-open-category;navigate-to-the-vegetarian-category" tests="7" failures="0" skipped="0">
@@ -103,19 +103,19 @@
             <property name="URI" value="C:/Users/nazmu/Desktop/Project-3-main/features/go-to-category.feature">
             </property>
         </properties>
-        <testcase name="Given that we are on Willy&apos;s website" classname="1.-open-category;navigate-to-the-vegetarian-category" time="4.2219991">
+        <testcase name="Given that we are on Willy&apos;s website" classname="1.-open-category;navigate-to-the-vegetarian-category" time="2.503239201">
         </testcase>
-        <testcase name="And that we accepted the standard cookie policy" classname="1.-open-category;navigate-to-the-vegetarian-category" time="2.846435999">
+        <testcase name="And that we accepted the standard cookie policy" classname="1.-open-category;navigate-to-the-vegetarian-category" time="1.9957732">
         </testcase>
-        <testcase name="And that we have have been through the initial where to deliver popup" classname="1.-open-category;navigate-to-the-vegetarian-category" time="3.9335011">
+        <testcase name="And that we have have been through the initial where to deliver popup" classname="1.-open-category;navigate-to-the-vegetarian-category" time="3.2102113">
         </testcase>
-        <testcase name="Given that I am on the Home page" classname="1.-open-category;navigate-to-the-vegetarian-category" time="0.0001668">
+        <testcase name="Given that I am on the Home page" classname="1.-open-category;navigate-to-the-vegetarian-category" time="0.0002391">
         </testcase>
-        <testcase name="When I click on menu button" classname="1.-open-category;navigate-to-the-vegetarian-category" time="0.1567112">
+        <testcase name="When I click on menu button" classname="1.-open-category;navigate-to-the-vegetarian-category" time="0.0348356">
         </testcase>
-        <testcase name="And I click on Vegetarian category button" classname="1.-open-category;navigate-to-the-vegetarian-category" time="3.5946199">
+        <testcase name="And I click on Vegetarian category button" classname="1.-open-category;navigate-to-the-vegetarian-category" time="3.0426329">
         </testcase>
-        <testcase name="Then I am on the Vegetarian category page" classname="1.-open-category;navigate-to-the-vegetarian-category" time="0.48715">
+        <testcase name="Then I am on the Vegetarian category page" classname="1.-open-category;navigate-to-the-vegetarian-category" time="0.2276504">
         </testcase>
     </testsuite>
     <testsuite name="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" tests="7" failures="0" skipped="0">
@@ -123,19 +123,19 @@
             <property name="URI" value="C:/Users/nazmu/Desktop/Project-3-main/features/mini-cart-sums.feature">
             </property>
         </properties>
-        <testcase name="Given that we are on Willy&apos;s website" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="3.8191933">
+        <testcase name="Given that we are on Willy&apos;s website" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="2.8422063">
         </testcase>
-        <testcase name="And that we accepted the standard cookie policy" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="1.8441862">
+        <testcase name="And that we accepted the standard cookie policy" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="1.8574421">
         </testcase>
-        <testcase name="And that we have have been through the initial where to deliver popup" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="3.831986">
+        <testcase name="And that we have have been through the initial where to deliver popup" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="3.3448339">
         </testcase>
-        <testcase name="Given that I am on the Fruit category page" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="7.2286797">
+        <testcase name="Given that I am on the Fruit category page" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="4.7161348">
         </testcase>
-        <testcase name="When I put a random number of each fruit that has price per piece in the cart" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="25.061577699">
+        <testcase name="When I put a random number of each fruit that has price per piece in the cart" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="16.0096598">
         </testcase>
-        <testcase name="Then the mini-cart should show the correct total quantity of products" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="0.083336801">
+        <testcase name="Then the mini-cart should show the correct total quantity of products" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="0.047266899">
         </testcase>
-        <testcase name="And the mini-cart should show correct total price" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="0.082586201">
+        <testcase name="And the mini-cart should show correct total price" classname="5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum" time="0.035303799">
         </testcase>
     </testsuite>
 </testsuites>
