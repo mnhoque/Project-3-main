@@ -1,0 +1,857 @@
+[
+  {
+    "description": "  As a user I want to be able to add 1 to several copies of an item in the shopping cart\n  so that I can buy it.",
+    "elements": [
+      {
+        "id": "correct-quantity-of-an-item-is-added-to-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-cart",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Add fruits to the shopping cart and check cart",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that we are on Willy's website",
+            "result": {
+              "status": "passed",
+              "duration": 6718376300
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we accepted the standard cookie policy",
+            "result": {
+              "status": "passed",
+              "duration": 2610974000
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we have have been through the initial where to deliver popup",
+            "result": {
+              "status": "passed",
+              "duration": 3863010199
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that I am on the page - Fruit category",
+            "result": {
+              "status": "passed",
+              "duration": 3791068501
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\add-items-to-cart.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I put a random number of each fruit",
+            "result": {
+              "status": "passed",
+              "duration": 23787173700
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\add-items-to-cart.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "the cart should show the correct quantity of items",
+            "result": {
+              "status": "passed",
+              "duration": 4508403200
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\add-items-to-cart.js:53"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4697812499
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\node_modules\\updated-selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "correct-quantity-of-an-item-is-added-to-the-mini-cart",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Correct quantity of an item is added to the mini-cart",
+    "tags": [],
+    "uri": "C:/Users/nazmu/Desktop/Project-3-main/features/add-items-to-cart.feature"
+  },
+  {
+    "description": "  As a user, I want to be able to change the number of an item in the shopping cart\n  so that I can buy more or less of it than I initially thought.",
+    "elements": [
+      {
+        "id": "6.-change-quantity-in-the-cart;increase-quantity-of-item-in-the-shopping-cart-and-check-sum",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Increase quantity of item in the shopping cart and check sum",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that we are on Willy's website",
+            "result": {
+              "status": "passed",
+              "duration": 4524653800
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we accepted the standard cookie policy",
+            "result": {
+              "status": "passed",
+              "duration": 3046883799
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we have have been through the initial where to deliver popup",
+            "result": {
+              "status": "passed",
+              "duration": 3865862901
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that I have an item in the shopping cart",
+            "result": {
+              "status": "passed",
+              "duration": 230499
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-change-quantity.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that I have opened cart",
+            "result": {
+              "status": "passed",
+              "duration": 167300
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-change-quantity.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on increase quantity button of the item in the cart",
+            "result": {
+              "status": "passed",
+              "duration": 431101
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-change-quantity.js:11"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "the cart should show the correct total quantity of products",
+            "result": {
+              "status": "passed",
+              "duration": 403900
+            },
+            "line": 14,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-change-quantity.js:15"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "the cart should show correct total price",
+            "result": {
+              "status": "passed",
+              "duration": 183700
+            },
+            "line": 15,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-change-quantity.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4495241400
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\node_modules\\updated-selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "6.-change-quantity-in-the-cart",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "6. Change quantity in the cart",
+    "tags": [],
+    "uri": "C:/Users/nazmu/Desktop/Project-3-main/features/cart-change-quantity.feature"
+  },
+  {
+    "description": "  As a user, I want to be able to remove an item from the shopping cart\n  so that I can regret that I have put it there.",
+    "elements": [
+      {
+        "id": "7.-remove-item-from-the-cart;decrease-item-quantity-to-0-in-the-shopping-cart",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Decrease item quantity to 0 in the shopping cart",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that we are on Willy's website",
+            "result": {
+              "status": "passed",
+              "duration": 4578930801
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we accepted the standard cookie policy",
+            "result": {
+              "status": "passed",
+              "duration": 4084484300
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we have have been through the initial where to deliver popup",
+            "result": {
+              "status": "passed",
+              "duration": 4048597299
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that I have an any item in the shopping cart",
+            "result": {
+              "status": "passed",
+              "duration": 239799
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-remove-item.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click decrease quantity button in the cart until quantity not 0",
+            "result": {
+              "status": "passed",
+              "duration": 205400
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-remove-item.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "the cart should not contain item",
+            "result": {
+              "status": "passed",
+              "duration": 201200
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\cart-remove-item.js:11"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4374761900
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\node_modules\\updated-selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "7.-remove-item-from-the-cart",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "7. Remove item from the cart",
+    "tags": [],
+    "uri": "C:/Users/nazmu/Desktop/Project-3-main/features/cart-remove-item.feature"
+  },
+  {
+    "description": "  As a user, I want to be able to see my shopping cart and the goods I have put in it should then be there\n  so that I can buy them.",
+    "elements": [
+      {
+        "id": "4.-check-items-in-shopping-cart;open-shopping-cart-and-check-items",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Open shopping cart and check items",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that we are on Willy's website",
+            "result": {
+              "status": "passed",
+              "duration": 4905326601
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we accepted the standard cookie policy",
+            "result": {
+              "status": "passed",
+              "duration": 3169912899
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we have have been through the initial where to deliver popup",
+            "result": {
+              "status": "passed",
+              "duration": 3970838000
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that I have items in the shopping cart",
+            "result": {
+              "status": "passed",
+              "duration": 24888483801
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\check-items-in-cart.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on the shoping cart button",
+            "result": {
+              "status": "passed",
+              "duration": 314139200
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\check-items-in-cart.js:50"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "the cart should appear",
+            "result": {
+              "status": "passed",
+              "duration": 1105756800
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\check-items-in-cart.js:57"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "the cart shows items with correct quantity",
+            "result": {
+              "status": "passed",
+              "duration": 1142303300
+            },
+            "line": 14,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\check-items-in-cart.js:62"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4302538501
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\node_modules\\updated-selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "4.-check-items-in-shopping-cart",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "4. Check items in shopping cart",
+    "tags": [],
+    "uri": "C:/Users/nazmu/Desktop/Project-3-main/features/check-items-in-cart.feature"
+  },
+  {
+    "description": "  As a user, I want to be able to click on an item to get more information about it\n  so that I can determine if it is of interest to me.",
+    "elements": [
+      {
+        "id": "2.-open-item-information-details;click-on-item-and-check-information-details",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Click on item and check information details",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that we are on Willy's website",
+            "result": {
+              "status": "passed",
+              "duration": 3818469400
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we accepted the standard cookie policy",
+            "result": {
+              "status": "passed",
+              "duration": 4153961001
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we have have been through the initial where to deliver popup",
+            "result": {
+              "status": "passed",
+              "duration": 3778750600
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that I am on the Fruit page",
+            "result": {
+              "status": "passed",
+              "duration": 4758978899
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\get-item-information.js:5"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click a random fruit",
+            "result": {
+              "status": "passed",
+              "duration": 1113401499
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\get-item-information.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "the modal window should appear",
+            "result": {
+              "status": "passed",
+              "duration": 430739200
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\get-item-information.js:20"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "the modal window should show correct information details",
+            "result": {
+              "status": "passed",
+              "duration": 129579100
+            },
+            "line": 14,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\get-item-information.js:24"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4215539700
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\node_modules\\updated-selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "2.-open-item-information-details",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "2. Open item information details",
+    "tags": [],
+    "uri": "C:/Users/nazmu/Desktop/Project-3-main/features/get-item-information.feature"
+  },
+  {
+    "description": "  As a user, I want to be able to go to different categories of goods\n  so that I can see which goods are included in a category (eg Bird, Tofu etc).",
+    "elements": [
+      {
+        "id": "1.-open-category;navigate-to-the-vegetarian-category",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Navigate to the Vegetarian category",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that we are on Willy's website",
+            "result": {
+              "status": "passed",
+              "duration": 4221999100
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we accepted the standard cookie policy",
+            "result": {
+              "status": "passed",
+              "duration": 2846435999
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we have have been through the initial where to deliver popup",
+            "result": {
+              "status": "passed",
+              "duration": 3933501100
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that I am on the Home page",
+            "result": {
+              "status": "passed",
+              "duration": 166800
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\go-to-category.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on menu button",
+            "result": {
+              "status": "passed",
+              "duration": 156711200
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\go-to-category.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I click on Vegetarian category button",
+            "result": {
+              "status": "passed",
+              "duration": 3594619900
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\go-to-category.js:18"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I am on the Vegetarian category page",
+            "result": {
+              "status": "passed",
+              "duration": 487150000
+            },
+            "line": 14,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\go-to-category.js:26"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4236370200
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\node_modules\\updated-selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "1.-open-category",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "1. Open category",
+    "tags": [],
+    "uri": "C:/Users/nazmu/Desktop/Project-3-main/features/go-to-category.feature"
+  },
+  {
+    "description": "  As as user I want to be able to add products and\n  see the correct total price and total quantity in the mini-cart.",
+    "elements": [
+      {
+        "id": "5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart;add-fruits-to-the-shopping-cart-and-check-sum",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Add fruits to the shopping cart and check sum",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that we are on Willy's website",
+            "result": {
+              "status": "passed",
+              "duration": 3819193300
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we accepted the standard cookie policy",
+            "result": {
+              "status": "passed",
+              "duration": 1844186200
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "that we have have been through the initial where to deliver popup",
+            "result": {
+              "status": "passed",
+              "duration": 3831986000
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\common-background.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "that I am on the Fruit category page",
+            "result": {
+              "status": "passed",
+              "duration": 7228679700
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\mini-cart-sums.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I put a random number of each fruit that has price per piece in the cart",
+            "result": {
+              "status": "passed",
+              "duration": 25061577699
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\mini-cart-sums.js:32"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "the mini-cart should show the correct total quantity of products",
+            "result": {
+              "status": "passed",
+              "duration": 83336801
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\mini-cart-sums.js:74"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "the mini-cart should show correct total price",
+            "result": {
+              "status": "passed",
+              "duration": 82586201
+            },
+            "line": 14,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\step-definitions\\mini-cart-sums.js:90"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 4247365699
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\nazmu\\Desktop\\Project-3-main\\node_modules\\updated-selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "5.-correct-quantity-and-total-price-should-be-shown-in-the-mini-cart",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "5. Correct quantity and total price should be shown in the mini-cart",
+    "tags": [],
+    "uri": "C:/Users/nazmu/Desktop/Project-3-main/features/mini-cart-sums.feature"
+  }
+]
